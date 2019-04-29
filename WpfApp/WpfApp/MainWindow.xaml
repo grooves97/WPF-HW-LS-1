@@ -9,13 +9,13 @@
      TextElement.FontSize="13"
      TextOptions.TextFormattingMode="Ideal"
      TextOptions.TextRenderingMode="Auto"
-        Background="#FFFF9E80"
+        Background="#FFFFFCFC"
         FontFamily="{DynamicResource MaterialDesignFont}"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="574.342" Width="952.763">
     <Grid Margin="0,0,37,47" >
-        <materialDesign:Card Padding="32" Margin="32,117,0,0" Height="358" Background="#FFB388FF">
+        <materialDesign:Card Padding="32" Margin="32,117,0,0" Height="358" Background="#FFEC407A">
             <materialDesign:Card.Effect>
                 <DropShadowEffect Color="#FFA8A1A1" BlurRadius="10" ShadowDepth="10"/>
             </materialDesign:Card.Effect>
